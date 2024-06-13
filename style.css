@@ -1,0 +1,34 @@
+body{
+    background:linear-gradient(90deg, rgba(110,110,110,0.5019257703081232) 0%, rgba(121, 121, 125, 0.499) 35%),url(body-bg.png.webp) !important;
+    background-size: cover !important;
+    background-position: center !important;
+    
+}
+.category-tab .nav-pills .nav-link {
+    color: #000000 !important;
+    background-color: transparent !important;
+}
+.category-tab .nav-pills .nav-link.active {
+    color: #157be9 !important;
+    background-color: transparent !important;
+}
+.email-container{
+    height: 400px;
+
+}
+.about{
+    height: 300px;
+    margin-bottom: 200px;
+}
+.update{
+    margin-top: 300px;
+    margin-bottom: 100px;
+
+}
+.project{
+    margin-bottom: 100px;
+}
+.paragraph{
+    margin-bottom: 100px;
+
+}
